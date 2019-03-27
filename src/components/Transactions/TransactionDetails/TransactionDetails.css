@@ -1,0 +1,12 @@
+.bold {
+  font-weight: bold;
+}
+
+.detailed {
+  border: 1px solid gray;
+  padding: 10px;
+  width: 250px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  text-align: center;
+}

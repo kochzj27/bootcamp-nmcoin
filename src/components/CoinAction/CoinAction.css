@@ -1,0 +1,8 @@
+.actions {
+  width: 400px;
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 15px;
+  margin: 15px;
+  background-color: rgb(237,238,240);
+}

@@ -1,0 +1,13 @@
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  background-color: rebeccapurple;
+  color: white;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.footer-item {
+  margin-top: 8px;
+}
